@@ -1,0 +1,137 @@
+body {
+  font-family: "Verdana", sans-serif;
+  margin: 0;
+  background: rgb(231, 231, 231);
+}
+.header {
+  background-color: #333;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 12px;
+  margin: 0px;
+  text-align: left;
+  font-size: 24px;
+}
+.top-right-credentials {
+  float: right;
+  padding: 3px;
+  margin-top: 11px;
+  font-size: 15px;
+}
+.top-breaker-1px {
+  height: 1px;
+  background-color: rgb(87, 87, 87);
+  font-size: 1px;
+}
+.top-menu {
+  float: left;
+  height: 100%;
+  width: 100%;
+  background: #333;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  font-size: 18px;
+  display: block;
+  text-decoration: none;
+}
+.left-blocker {
+  float: left;
+  height: 100%;
+  width: 22%;
+  background-color: rgb(231, 231, 231);
+  color: rgb(231, 231, 231);
+}
+.main {
+  float: left;
+  height: 700px;
+  width: 56%;
+  background: #fff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgb(184, 181, 181);
+  border-width: 1px;
+}
+.top-menu a {
+  text-align: center;
+  position: static;
+  text-decoration: none;
+}
+.top-menu a:hover {
+  background-color: #ddd;
+  border-color: #878787;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  color: black;
+}
+.text-link {
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+  position: relative;
+  margin-left: 26.5%;
+}
+.home_container {
+  text-align: center;
+}
+.home_title {
+  font-size: 28px;
+}
+.input {
+  margin: 20% 40% 30% 40%;
+}
+.year_input {
+  width: 200px;
+  height: 30px;
+  font-size: 26px;
+  text-align: center;
+}
+.output_container {
+  border-width: 1px;
+  border-color: #878787;
+  border-style: solid;
+  border-radius: 25px;
+  width: 80%;
+  height: 100px;
+  margin-left: 10%;
+  margin-top: 2%;
+}
+.output {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 0;
+}
+.random_button {
+  margin-top: 5%;
+  padding: 5px 5px 5px 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  border-width: 1px;
+}
+.random_button:hover {
+  background: #333;
+  color: #fff;
+}
+.picture_box {
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 100%;
+  width: 500px;
+  float: left;
+}
+.code_pic {
+  border-radius: 10px;
+}
+.textbox_about {
+  float: left;
+  margin-top: 10px;
+  width: 40%;
+  height: 500px;
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #878787;
+  border-radius: 10px;
+}
